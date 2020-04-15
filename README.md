@@ -26,6 +26,7 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India
 - [Telegram Instant Updates](https://t.me/covid19indiaorg_updates) (Updates from covid19india.org Team)
 - [Alt. Telegram Channel](https://github.com/xsreality/covid19)
 - [Telegram Bot](https://github.com/Tele-Bots/CovidBot)
+- [WhatsApp Bot](whatsapp://send/?phone=14155238886&text=join%20second-previous)
 
 ## Quick Links
 
